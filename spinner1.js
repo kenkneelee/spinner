@@ -41,4 +41,3 @@ setTimeout(() => {
   console.log();
 }, 1900);
 
-// ... fill in the rest yourself ...
